@@ -13,4 +13,4 @@ The program waits for the user to type a review
 
 It prints Positive 😀 or Negative 😞
 
-User can type exit to st
+User can type exit to stop
