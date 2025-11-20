@@ -40,6 +40,7 @@ Automatically downloaded inside the notebook
 Source: Stanford AI Lab
 
 How to run: 
+
 Open Sentiment_analysis.ipynb Google Colab notebook link
 
 click on Run
