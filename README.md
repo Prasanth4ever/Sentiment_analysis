@@ -1,5 +1,5 @@
 # Sentiment_analysis
-Open the Google Colab notebook link
+Open Sentiment_analysis.ipynb Google Colab notebook link
 
 click on Run
 
