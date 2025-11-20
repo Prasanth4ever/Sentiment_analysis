@@ -1,5 +1,5 @@
 # Sentiment_analysis
-Open the Google Colab notebook link
+Open the Google Colab notebook link\n
 click on Run
 Wait for the model to train and display accuracy + confusion matrix.
 Enter your own review when prompted to test sentiment predictions.
